@@ -1,0 +1,41 @@
+body{
+    background-color:ivory;
+}
+
+.lina1{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.lina2{
+    text-align: center;
+    color:darkgrey;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.lina3{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color:darkslategrey;
+    font-weight: bold;
+}
+
+.lina4{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:black;
+    font-weight: bold;
+}
+
+
+.lina5{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color:black;
+    font-weight:bold;
+}
+
+.lina6{text-align: center;
+       color:grey;
+       font-family:italic;
+}
